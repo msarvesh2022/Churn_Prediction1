@@ -43,8 +43,8 @@ def churn():
     if output == 1:
         return "<h1>Customer will cancel the subscription</h1>"
     else :
-        return "Customer will remain"
+        return "<h1>Customer will remain</h1>"
 
 
 if __name__=="__main__":
-    app.run(host="0.0.0.0")
+    app.run(debug=True)
