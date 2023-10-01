@@ -4,7 +4,8 @@ import numpy as np
 import pickle
 import os
 
-app= Flask(__name__)
+application = Flask(__name__)
+app = application
 
 
 import os
@@ -48,4 +49,4 @@ def churn():
 
 if __name__=="__main__":
 
-    app.run(host="0.0.0.0")
+    app.run("0.0.0.0")
