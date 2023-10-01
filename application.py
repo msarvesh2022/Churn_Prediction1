@@ -4,7 +4,8 @@ import numpy as np
 import pickle
 import os
 
-app= Flask(__name__)
+application= Flask(__name__)
+app=application
 
 
 import os
