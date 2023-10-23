@@ -1,2 +1,2 @@
 ## This is updated readme file
-In this Project I have built a ml model which predict whether patient
+In this Machine Learning project, I developed a robust and effective customer churn prediction system to forecast whether a customer is likely to cancel their subscription or remain a loyal subscriber. The project utilized classification Machine Learning algorithms to tackle this critical business challenge.
